@@ -87,5 +87,5 @@ analyze_text_file <- function(file_path) {
 }
 
 # Example usage
-file_path <- "C:/Users/Hari Patel/Documents/projects/DataScienceProjects/SentimentAnalysisUsingR/Sample.txt"
+file_path <- "Enter/File/Path.txt"
 analyze_text_file(file_path)
